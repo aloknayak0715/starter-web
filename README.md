@@ -17,6 +17,9 @@
     file system.on any wev server or even local
    
 ## How to contribute
+   please fork this repository and the issue pull request
+   for review.
+
 Sample website with plenty of files for demos
 
 2014 Git.Training
