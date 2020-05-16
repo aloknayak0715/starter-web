@@ -3,7 +3,7 @@
 
     this is a simple website project for showing 
 	how to use git and github together.
-	 Adding a line for rebasing example.
+	 Adding a line for rebasing example,more changes form myfeature too.
 ## Introduction
      this is example to show different parts of git repository
 	 and various commands using a web project.
