@@ -19,7 +19,8 @@
 ## How to contribute
    please fork this repository and the issue pull request
    for review.
+## Copyright
 
 Sample website with plenty of files for demos
 
-2014 Git.Training
+2014 Git.Training.All right reserved
